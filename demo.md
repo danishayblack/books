@@ -8,6 +8,6 @@ Markdown I've Learned
 
 *italics*
 
-<u> underline <u>
+<ins> underline </ins>
 
  how to insert an image ![alt text](bookimages/ariel-image.png)
