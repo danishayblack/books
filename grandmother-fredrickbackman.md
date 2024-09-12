@@ -12,4 +12,4 @@ When Elsa’s grandmother dies and leaves behind a series of letters apologizing
 
 **Genres**
 
-Fiction, Contemporary, Humor, Adult, Fantasy
+*Fiction, Contemporary, Humor, Adult, Fantasy*

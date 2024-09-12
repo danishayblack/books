@@ -10,4 +10,4 @@ When Sylvia Plath died, she not only left behind a prolific life but also her un
 
 **Genres**
 
-Classics, Fiction, Poetry, Mental Health
+*Classics, Fiction, Poetry, Mental Health*

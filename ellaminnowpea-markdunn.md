@@ -10,4 +10,4 @@ Ella Minnow Pea is a girl living happily on the fictional island of Nollop off t
 
 **Genres**
 
-Fiction, Fantasy, Humor, Dystopia, Adult
+*Fiction, Fantasy, Humor, Dystopia, Adult*
