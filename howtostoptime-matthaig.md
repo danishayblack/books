@@ -1,6 +1,6 @@
 How to Stop Time by Matt Haig
 
-[alt text](howtostoptime-image.png)
+![alt text](bookimages/stoptime-image.png)
 
 Rating: 3/5
 
@@ -11,3 +11,5 @@ Unfortunately for Tom, the Albatross Society, the secretive group which protects
 
 Genres
 Fiction, Fantasy, Historical Fiction, Science Fiction, Time Travel, Romance
+
+[def]: bookimages/howtostoptime-image.png
