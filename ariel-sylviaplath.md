@@ -1,11 +1,13 @@
-Ariel by Sylvia Plath
+# Ariel by Sylvia Plath
 
 ![alt text](bookimages/ariel-image.png)
 
-Rating: 2/5
+<u> Rating: 2/5 </u>
 
-Synopsis
+**Synopsis**
+
 When Sylvia Plath died, she not only left behind a prolific life but also her unpublished literary masterpiece, Ariel. Her husband, Ted Hughes, brought the collection to life in 1966, and its publication garnered worldwide acclaim. This collection showcases the beloved poet’s brilliant, provoking, and always moving poems, including "Ariel" and once again shows why readers have fallen in love with her work throughout the generations.
 
-Genres
+**Genres**
+
 Classics, Fiction, Poetry, Mental Health
