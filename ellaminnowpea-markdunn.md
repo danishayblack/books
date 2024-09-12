@@ -1,5 +1,7 @@
 Ella Minnow Pea by Mark Dunn
 
+![alt text](bookimages/ellaminnowpea-image.png)
+
 Rating: TBD
 
 Synopsis

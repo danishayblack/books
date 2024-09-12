@@ -1,5 +1,7 @@
 Ariel by Sylvia Plath
 
+![alt text](bookimages/ariel-image.png)
+
 Rating: 2/5
 
 Synopsis
