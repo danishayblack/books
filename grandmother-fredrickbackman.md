@@ -2,7 +2,7 @@
 
 ![alt text](bookimages/grandmother-image.png)
 
-<u> Rating: 4/5 </u>
+<u> Rating: 4/5 <u>
 
 **Synopsis**
 

@@ -2,7 +2,7 @@
 
 ![alt text](bookimages/ellaminnowpea-image.png)
 
-<u> Rating: TBD </u>
+<u> Rating: TBD <u>
 
 **Synopsis**
 

@@ -2,7 +2,7 @@
 
 ![alt text](bookimages/ariel-image.png)
 
-<u> Rating: 2/5 </u>
+<u> Rating: 2/5 <u>
 
 **Synopsis**
 

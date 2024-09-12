@@ -2,7 +2,7 @@
 
 ![alt text](bookimages/stoptime-image.png)
 
-<u> Rating: 3/5 </u>
+<u> Rating: 3/5 <u>
 
 **Synopsis**
 
