@@ -1,5 +1,7 @@
 How to Stop Time by Matt Haig
 
+[alt text](howtostoptime-image.png)
+
 Rating: 3/5
 
 Synopsis
